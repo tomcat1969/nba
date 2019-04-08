@@ -1,7 +1,7 @@
 {
   "name": "nba-web",
   "version": "0.1.0",
-  "homepage": "https://tomcat1969.github.io//nba"
+  "homepage": "https://tomcat1969.github.io//nba",
   "private": true,
   "dependencies": {
     "antd": "^3.11.2",
